@@ -19,7 +19,8 @@ function Sobre() {
             periodo do curso de Si CPAN - UFMS.
           </p>
           <p>
-            Desenvolvedor HTML, JAVASCRIPT ,CSS ,HTML e rescentemente REACTJS
+            Programador Web e Programado Unity em formação. HTML, JAVASCRIPT
+            ,CSS ,HTML,C++ e rescentemente REACTJS
           </p>
         </div>
       </div>
