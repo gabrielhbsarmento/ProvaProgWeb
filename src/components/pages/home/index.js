@@ -49,7 +49,7 @@ const Home = () => {
         <h2>Seja bem vindo ao meu portfólio</h2>
 
         <p>
-          Meu Nome eh Gabriel Henrique B Sarmento Aluno no 6º semestre de SI
+          Meu Nome é Gabriel Henrique B Sarmento Aluno no 6º semestre de SI
           CPAN - UFMS .Programador Web e Programado Unity em formação.
         </p>
         <button>
