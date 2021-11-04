@@ -32,7 +32,7 @@ yarn start
 * [React Router](https://reactrouter.com/web/guides/quick-start) 
 
 ## Autor
-**Djayson Rodrigues** - [LinkedIn](https://br.linkedin.com/in/djaysonrodrigues)
+**Gabriel** - [LinkedIn](https://www.linkedin.com/in/gabriel-baracat-a53a35216/)
 
 
 
