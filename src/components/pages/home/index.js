@@ -50,7 +50,7 @@ const Home = () => {
 
         <p>
           Meu Nome é Gabriel Henrique B Sarmento Aluno no 6º semestre de SI
-          CPAN - UFMS .Programador Web e Programado Unity em formação.
+          CPAN - UFMS .Programador Web e Programador Unity em formação.
         </p>
         <button>
           <Link to="/about">Saiba mais</Link>
