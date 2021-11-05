@@ -19,7 +19,7 @@ function Sobre() {
             periodo do curso de Si CPAN - UFMS.
           </p>
           <p>
-            Desenvolvedor HTML, JAVASCRIPT ,CSS ,HTML e rescentemente REACTJS
+            Desenvolvedor HTML, JAVASCRIPT ,CSS e rescentemente REACTJS
           </p>
         </div>
       </div>
