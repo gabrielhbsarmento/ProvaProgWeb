@@ -28,7 +28,6 @@ yarn start
 * [Reactjs](https://github.com/facebook/react/blob/master/CHANGELOG.md#16131-march-19-2020)  
 * [Animate](https://animate.style/#javascript)
 * [Figma](https://figma.com/) 
-* [Email.js](https://www.emailjs.com/) 
 * [React Router](https://reactrouter.com/web/guides/quick-start) 
 
 ## Autor
