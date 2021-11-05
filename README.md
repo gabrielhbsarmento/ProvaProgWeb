@@ -10,9 +10,6 @@
     <img src="https://img.shields.io/badge/Animate.css-4.1.0-informational?"></img>
   </a>
   
-   <a aria-label="Email.js" href="https://www.emailjs.com/">
-    <img src="https://img.shields.io/badge/Emailjs-2.6.3-red"></img>
-  </a>
 
   </p>
 
